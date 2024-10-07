@@ -1,4 +1,4 @@
-### Hi there 👋
+думал здесь что то будет?
 
 <!--
 **amegaaa/amegaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
