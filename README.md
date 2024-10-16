@@ -1,6 +1,3 @@
-<br>
-<br>
-<br>
 
 <div align='center' height='800'>
 ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
