@@ -44,6 +44,11 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
   ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop)
   ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator)
 
+
+### ¿ Learning:
+
+  ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+
 </div>
 </div>
 
