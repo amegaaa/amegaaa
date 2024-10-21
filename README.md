@@ -48,6 +48,8 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 ### ¿ Learning:
 
   ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
+  ![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
+
 
 </div>
 </div>
