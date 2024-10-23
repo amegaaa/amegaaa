@@ -43,6 +43,7 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
   ![figma](https://img.shields.io/badge/figma-000?style=for-the-badge&logo=figma)
   ![adobephotoshop](https://img.shields.io/badge/adobephotoshop-000?style=for-the-badge&logo=adobephotoshop)
   ![adobeillustrator](https://img.shields.io/badge/adobeillustrator-000?style=for-the-badge&logo=adobeillustrator)
+  ![adobelightroom](https://img.shields.io/badge/adobelightroom-000?style=for-the-badge&logo=adobelightroom)
 
 
 ### ¿ Learning:
