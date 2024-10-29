@@ -50,6 +50,7 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 
   ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
   ![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
+  ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 
 
 </div>
