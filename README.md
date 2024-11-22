@@ -23,6 +23,7 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) 
 ![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss)
+![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
 
 
 
@@ -49,7 +50,6 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 ### ¿ Learning:
 
   ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
-  ![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
   ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
 
 
