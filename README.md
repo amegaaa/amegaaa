@@ -19,7 +19,7 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 
 ![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![gulp](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=gulp)
+![gulp](https://img.shields.io/badge/gulp-000?style=for-the-badge&logo=gulp)
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) 
 
