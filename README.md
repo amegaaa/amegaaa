@@ -19,20 +19,16 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 
 ![HTML](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)
 ![css3](https://img.shields.io/badge/css3-000?style=for-the-badge&logo=css3&logoColor=blue)
-![jаvascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
+![gulp](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=gulp)
 ![sass](https://img.shields.io/badge/sass-000?style=for-the-badge&logo=sass)
 ![git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git) 
-![tailwindcss](https://img.shields.io/badge/tailwindcss-000?style=for-the-badge&logo=tailwindcss)
-![vite](https://img.shields.io/badge/vite-000?style=for-the-badge&logo=vite)
-
-
 
 
 
 ### ¿ Code Pluggins:
 
 
-
+  
   ![prettier](https://img.shields.io/badge/prettier-000?style=for-the-badge&logo=prettier)
   ![babel](https://img.shields.io/badge/babel-000?style=for-the-badge&logo=babel)
    
@@ -48,9 +44,9 @@ ẻ̶̖̪̓͂͆̅ͅḅ̶̲̪̄̈̽l̸͖͓̳̆͛a̸͙̩̓̅̾̓͂ṇ̵̩̳͖͐̔
 
 
 ### ¿ Learning:
-
+  
   ![react](https://img.shields.io/badge/react-000?style=for-the-badge&logo=react)
-  ![typescript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
+  ![jаvascript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
 
 
 </div>
